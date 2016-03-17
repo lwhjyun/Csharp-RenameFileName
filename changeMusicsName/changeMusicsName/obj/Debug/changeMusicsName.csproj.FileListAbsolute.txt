@@ -1,0 +1,9 @@
+D:\C#Program\changeMusicsName\changeMusicsName\bin\Debug\changeMusicsName.exe.config
+D:\C#Program\changeMusicsName\changeMusicsName\bin\Debug\changeMusicsName.exe
+D:\C#Program\changeMusicsName\changeMusicsName\bin\Debug\changeMusicsName.pdb
+D:\C#Program\changeMusicsName\changeMusicsName\obj\Debug\changeMusicsName.csprojResolveAssemblyReference.cache
+D:\C#Program\changeMusicsName\changeMusicsName\obj\Debug\changeMusicsName.Form1.resources
+D:\C#Program\changeMusicsName\changeMusicsName\obj\Debug\changeMusicsName.Properties.Resources.resources
+D:\C#Program\changeMusicsName\changeMusicsName\obj\Debug\changeMusicsName.csproj.GenerateResource.Cache
+D:\C#Program\changeMusicsName\changeMusicsName\obj\Debug\changeMusicsName.exe
+D:\C#Program\changeMusicsName\changeMusicsName\obj\Debug\changeMusicsName.pdb
